@@ -1,2 +1,3 @@
 This file contains sample text.
 Adding 2nd line.
+adding 3rd line.
